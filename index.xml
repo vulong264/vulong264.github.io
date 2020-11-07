@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>my name is Long...</title>
+        <link>https://vulong.github.io/</link>
+        <description>...but I&#39;m gonna give you a short one</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
+            <atom:link href="https://vulong.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

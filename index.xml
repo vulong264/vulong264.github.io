@@ -3,8 +3,8 @@
         <title>Long&#39;s story short...</title>
         <link>https://vulong264.github.io/</link>
         <description>Long story short</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>site@vulong.com (long)</managingEditor>
-            <webMaster>site@vulong.com (long)</webMaster>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>web@vulong.com (Long)</managingEditor>
+            <webMaster>web@vulong.com (Long)</webMaster>
             <atom:link href="https://vulong264.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
